@@ -1,4 +1,5 @@
-button {
+button, .btn {
+    text-decoration: none;
     background: #04a504;
     color: white;
     border: 0;
